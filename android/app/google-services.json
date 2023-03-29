@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788600063025",
+    "project_id": "pkkfirdaus",
+    "storage_bucket": "pkkfirdaus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788600063025:android:e63a903cf98ed24119c110",
+        "android_client_info": {
+          "package_name": "com.example.pkkfirdaus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788600063025-t28b2abcm4u2dmfugn9a654mf43nm03p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIr_GlaNVquNdNqcOcjxxIVQZujveSvsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788600063025-t28b2abcm4u2dmfugn9a654mf43nm03p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
